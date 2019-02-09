@@ -17,7 +17,7 @@ Within few couple of minutes we are going to learn how to test your code using J
 
 > 1. Install IDE  Eclipse / InteliJ IDEA
 
-> 2. Windows OS user need to install git on System ( Unix based os doesn't need this step ) [Download From Here](https://git-scm.com/downloads)
+> 2. Windows OS user needs to install git on System ( Unix based os doesn't need this step ) [Download From Here](https://git-scm.com/downloads)
 
 > 3. Download JUnit.jar from  [here](https://github.com/MajedurRahmanMmr/JUint-Test/raw/master/junit-4.10.jar)
 
