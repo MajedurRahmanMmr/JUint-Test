@@ -1,4 +1,5 @@
-![](addlibrary1.png)
+![](header.jpg)
+
 
 # Unit tesing for beginner using JUnit 
 # `Instructor - Shaikh Shawon Arefin Shimon`
@@ -8,7 +9,7 @@
 Within few couple of minutes we are going to learn how to test your code using JUint
 
 
-![](header.jpg)
+
 
 
 
