@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d78b52f-320f-4a2e-9853-7e4e2d45ca63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OperationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="391">
+              <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +58,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/junit-4.10.jar!/org/junit/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Operation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="115">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/ExmapleClass.java" />
         <option value="$PROJECT_DIR$/src/ExampleClass.java" />
         <option value="$PROJECT_DIR$/src/ExampleClassTest.java" />
-        <option value="$PROJECT_DIR$/src/OperationTest.java" />
         <option value="$PROJECT_DIR$/src/Operation.java" />
+        <option value="$PROJECT_DIR$/src/OperationTest.java" />
       </list>
     </option>
   </component>
@@ -124,7 +136,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549717926291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549719179506" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/junit-4.10.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -172,6 +184,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperationTest.sortAndMakeUniqueItemListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OperationTest" />
+      <option name="METHOD_NAME" value="sortAndMakeUniqueItemListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperationTest.sumTwoInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -187,10 +209,12 @@
       <item itemvalue="JUnit.ExampleClassTest.getDataTest" />
       <item itemvalue="JUnit.ExampleClassTest" />
       <item itemvalue="JUnit.OperationTest.sumTwoInteger" />
+      <item itemvalue="JUnit.OperationTest.sortAndMakeUniqueItemListTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.OperationTest.sumTwoInteger" />
+        <item itemvalue="JUnit.OperationTest.sortAndMakeUniqueItemListTest" />
         <item itemvalue="JUnit.ExampleClassTest.getDataTest" />
         <item itemvalue="JUnit.ExampleClassTest" />
       </list>
@@ -206,7 +230,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549716176820</updated>
-      <workItem from="1549716178311" duration="1681000" />
+      <workItem from="1549716178311" duration="2998000" />
     </task>
     <task id="LOCAL-00001" summary="Remove hello world message">
       <created>1549716545226</created>
@@ -229,43 +253,50 @@
       <option name="project" value="LOCAL" />
       <updated>1549717349554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="End Of Problem 1 Solution and Start of Problem 2">
+      <created>1549717972676</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549717972676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 18h 58m 13s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 21m 58s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 18h 58m 38s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 22m 38s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 18h 58m 48s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 23m 51s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 19h 06m 52s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 24m 33s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 19h 08m 04s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 25m 06s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 19h 08m 24s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 28m 54s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 19h 09m 00s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 29m 52s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleClassTest_getDataTest - 2019.02.09 at 19h 09m 41s.xml">
-      <configuration name="ExampleClassTest.getDataTest" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 30m 08s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationTest_sumTwoInteger - 2019.02.09 at 19h 09m 49s.xml">
-      <configuration name="OperationTest.sumTwoInteger" configurationId="JUnit" />
+    <history-entry file="OperationTest_sortAndMakeUniqueItemListTest - 2019.02.09 at 19h 31m 23s.xml">
+      <configuration name="OperationTest.sortAndMakeUniqueItemListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationTest_sumTwoInteger - 2019.02.09 at 19h 10m 06s.xml">
+    <history-entry file="OperationTest_sumTwoInteger - 2019.02.09 at 19h 32m 31s.xml">
       <configuration name="OperationTest.sumTwoInteger" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1681000" />
+    <option name="totallyTimeSpent" value="2998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -276,7 +307,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -286,7 +317,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -309,14 +340,15 @@
     <MESSAGE value="Remove hello world message" />
     <MESSAGE value="Added JUnit library" />
     <MESSAGE value="End Of understanding  unit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="End Of understanding  unit test" />
+    <MESSAGE value="End Of Problem 1 Solution and Start of Problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="End Of Problem 1 Solution and Start of Problem 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/OperationTest.java</url>
-          <line>15</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -348,17 +380,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/junit-4.10.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="115">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OperationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="391">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
