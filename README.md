@@ -28,6 +28,8 @@ Within few couple of minutes we are going to learn how test your code using JUin
 
 
 
+# Shortcuts 
+
 > [Initial Project](https://github.com/MajedurRahmanMmr/JUint-Test/tree/1dcae047263782f0a19ec9bd2ab4d8475e153a03)
 
 
