@@ -47,4 +47,15 @@ Within few couple of minutes we are going to learn how test your code using JUin
 
 
 
+# `Those who are facing problem installing JUnit Library into project follow these instructions`
 
+
+![](addlibrary1.png)
+
+![](addlibrary2.png)
+
+![](addlibrary3.png)
+
+![](addlibrary4.png)
+
+![](addlibrary5.png)
