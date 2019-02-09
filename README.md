@@ -27,7 +27,7 @@ Within few couple of minutes we are going to learn how to test your code using J
       
 > 5. Open folder with your IDE. `In this tutorial I will use InteliJ IDEA`
 
-> 6. Follow the [video](https://www.youtube.com)
+> 6. Follow the [video](https://youtu.be/a8bYSWjMlyI)
 
 
 
