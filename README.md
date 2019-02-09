@@ -20,7 +20,7 @@ Within few couple of minutes we are going to learn how test your code using JUin
 
 > 4. clone this repository
 
-      git clone https://github.com/MajedurRahman/TemplateRM 
+      git clone git@github.com:MajedurRahmanMmr/JUint-Test.git
       
 > 5. Open folder with your IDE. `In this tutorial I will use InteliJ IDEA`
 
