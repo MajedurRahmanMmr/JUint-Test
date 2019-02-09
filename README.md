@@ -1,7 +1,7 @@
 ![](header.jpg)
 
 
-# Unit tesing for beginner using JUnit 
+# Unit testing for beginner using JUnit 
 # `Instructor - Shaikh Shawon Arefin Shimon`
 
 > Submitted By - Md Majedur Rahman
