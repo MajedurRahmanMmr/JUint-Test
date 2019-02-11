@@ -39,8 +39,6 @@ Within few couple of minutes we are going to learn how to test your code using J
 > [After Added JUnit Library](https://github.com/MajedurRahmanMmr/JUint-Test/tree/72a985511e550f87c5ccedd63f75de83456a4b11)
 
 
-> [After Added JUnit Library](https://github.com/MajedurRahmanMmr/JUint-Test/tree/72a985511e550f87c5ccedd63f75de83456a4b11)
-
 > [End Of Basic Understanding Of Unit test and Start of Problem 1](https://github.com/MajedurRahmanMmr/JUint-Test/tree/6503b96b3abae70d81604c0101fb0e4b08be9bcd)
 
 > [End Of Basic Problem 1 and Start of Problem 2](https://github.com/MajedurRahmanMmr/JUint-Test/tree/7c23bc47bf277b125d319305eb5c1471965cfec1)
